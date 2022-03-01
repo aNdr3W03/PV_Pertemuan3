@@ -3,7 +3,7 @@
 
 #### Nama: Andrew Benedictus Jamesie
 #### NIM: 201401035
-#### Ilmu Komputer USU
+#### Ilmu Komputer Universitas Sumatera Utara
 
 ## Directory
 #### Terdapat tiga (3) folder SharpDevelop Project Solution
