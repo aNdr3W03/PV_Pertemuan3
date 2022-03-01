@@ -3,6 +3,7 @@
 
 #### Nama: Andrew Benedictus Jamesie
 #### NIM: 201401035
+#### Kom: A
 #### Ilmu Komputer Universitas Sumatera Utara
 
 ## Directory
