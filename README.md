@@ -1,5 +1,6 @@
 # PV_Pertemuan3
 #### Tugas mata kuliah Pemrograman Visual pertemuan 3 (Pengenalan SharpDevelop)
+#### Dosen Pengampu: T. Henny Febriana Harumy, S.Kom., M.Kom.
 
 #### Nama: Andrew Benedictus Jamesie
 #### NIM: 201401035
