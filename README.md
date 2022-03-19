@@ -1,6 +1,6 @@
 > ⚠️ Moved to new repository [PemrogramanVisual](https://github.com/aNdr3W03/PemrogramanVisual) ⚠️
 > 
-> This repository has been completely moved to a new repository (Sunday, 20-03-2022, 02.47) which will be merge with other assignment
+> This repository has been completely moved to a new repository (Sunday, 20-03-2022, 02.45) which will be merge with other assignment
 
 # 
 # PV_Pertemuan3
